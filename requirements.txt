@@ -23,7 +23,7 @@ APScheduler>=3.10.0
 sqlalchemy>=1.4.0
 tesseract-python>=0.0.1
 pytesseract>=0.3.10
-opencv-python>=4.5.0
+opencv-python==4.8.1.78
 numpy>=1.21.0
 flask>=2.0.0
 flask-login>=0.6.0
